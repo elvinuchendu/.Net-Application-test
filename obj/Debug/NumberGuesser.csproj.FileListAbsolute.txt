@@ -1,0 +1,6 @@
+/Users/yournewmac/RiderProjects/NumberGuesser/bin/Debug/NumberGuesser.exe
+/Users/yournewmac/RiderProjects/NumberGuesser/bin/Debug/NumberGuesser.pdb
+/Users/yournewmac/RiderProjects/NumberGuesser/obj/Debug/NumberGuesser.csproj.AssemblyReference.cache
+/Users/yournewmac/RiderProjects/NumberGuesser/obj/Debug/NumberGuesser.csproj.CoreCompileInputs.cache
+/Users/yournewmac/RiderProjects/NumberGuesser/obj/Debug/NumberGuesser.exe
+/Users/yournewmac/RiderProjects/NumberGuesser/obj/Debug/NumberGuesser.pdb
